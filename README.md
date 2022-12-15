@@ -19,6 +19,7 @@ I got an accuracy of 80% which is good.
 after that i loaded the model and made web application using Flask.
 In below image you can se how web application looks like.
 
+![final monkey](https://user-images.githubusercontent.com/95639758/207809658-65e9cb6f-4e92-4acc-bfbb-1f9caeba7144.png)
 
 
 
