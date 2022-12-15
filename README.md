@@ -10,6 +10,12 @@ I have one txt file that contains the labels, names and count of training and va
 
 ![Screenshot 2022-12-15 133937](https://user-images.githubusercontent.com/95639758/207806554-9642927b-8a59-4664-8bf5-12bf29d8468b.png)
 
+From above figure we can conclude that all the classes are almost equally distributed, this is good news as the model will not be biased towards any class and learning will be pure.
+
+I have done all the scaling and preprocessing that are required.and our images size is 224*224.
+
+
+
 
 
 
