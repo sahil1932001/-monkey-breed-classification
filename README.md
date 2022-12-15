@@ -8,6 +8,8 @@ I divided the images of monkeys into training set and validation set. training d
 and validation set also contains the images of 10 different breeds of monkeys for testing purpose.
 I have one txt file that contains the labels, names and count of training and validation data of 10 different breeds.
 
+![Screenshot 2022-12-15 133937](https://user-images.githubusercontent.com/95639758/207806554-9642927b-8a59-4664-8bf5-12bf29d8468b.png)
+
 
 
 
