@@ -12,7 +12,15 @@ I have one txt file that contains the labels, names and count of training and va
 
 From above figure we can conclude that all the classes are almost equally distributed, this is good news as the model will not be biased towards any class and learning will be pure.
 
-I have done all the scaling and preprocessing that are required.and our images size is 224*224.
+I have done all the scaling and preprocessing that are required.and our images size is.
+
+After that I use CNN(convolutional neural network) model for training the data. I used 2 convolutional layer and 2 pooling layers and fully connected layer.
+I got an accuracy of 80% which is good.
+after that i loaded the model and made web application using Flask.
+In below image you can se how web application looks like.
+
+
+
 
 
 
